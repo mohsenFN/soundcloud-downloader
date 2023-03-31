@@ -17,7 +17,7 @@ To use this app, follow the steps below:
     In the terminal or command prompt, run "python3 soundcloud_downloader.py" or "python soundcloud_downloader.py" to start the app.
     Enter the SoundCloud link of the song you want to download.
     Enter the name you want to save the MP3 file with.
-
+    The Default directoy to save MP3 files is /songs 
 ## Author
 
 This app was created by Mohsen FN. Feel free to contact me if you have any questions or comments.
@@ -33,4 +33,7 @@ This project is licensed under the MIT License. Feel free to modify and use this
     به فولدری که حاوی پرونده های دانلود شده است بروید.
     با اجرای دستور pip install -r requirements.txt به نصب dependencies مورد نیاز بپردازید.
     در ترمینال یا پنجره دستور دهنده (CMD) دستور "python3 soundcloud_downloader.py" یا "python soundcloud_downloader.py" را وارد کنید.
-    لینک سایت SoundCloud مربوط به آهنگ مورد نظر خود را
+    لینک سایت SoundCloud مربوط به آهنگ مورد نظر خود را وارد کنید
+    در صورت صحیح بودن لینک شما برنامه از شما نامی برای ذخیره فایل مورد نظر خواهد پرسید
+
+### نکته :‌ /songs دایرکتوری پیشفرض ذخیره فایل های شماست که باید در کنار فایل اجرایی باشد.

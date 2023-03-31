@@ -1,4 +1,4 @@
-SoundCloud Downloader
+# SoundCloud Downloader
 <div dir="rtl">
 
 پروژه دانلودر ساده و کاربردی ٬ دریافت فایل های صوتی از وب سایت SoundCloud
@@ -36,4 +36,4 @@ This project is licensed under the MIT License. Feel free to modify and use this
     لینک سایت SoundCloud مربوط به آهنگ مورد نظر خود را وارد کنید
     در صورت صحیح بودن لینک شما برنامه از شما نامی برای ذخیره فایل مورد نظر خواهد پرسید
 
-### نکته :‌ /songs دایرکتوری پیشفرض ذخیره فایل های شماست که باید در کنار فایل اجرایی باشد.
+##### نکته :‌ /songs دایرکتوری پیشفرض ذخیره فایل های شماست که باید در کنار فایل اجرایی باشد.

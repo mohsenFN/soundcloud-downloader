@@ -18,10 +18,10 @@ To use this app, follow the steps below:
     Enter the SoundCloud link of the song you want to download.
     Enter the name you want to save the MP3 file with.
 
-Author
+## Author
 
-This app was created by [Your Name]. Feel free to contact me if you have any questions or comments.
-License
+This app was created by Mohsen FN. Feel free to contact me if you have any questions or comments.
+## License
 
 This project is licensed under the MIT License. Feel free to modify and use this app as you wish.
 </div><div dir="rtl">
